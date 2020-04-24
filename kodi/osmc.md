@@ -1,0 +1,4 @@
+# OSMC
+
+OSMC asennusohje
+
